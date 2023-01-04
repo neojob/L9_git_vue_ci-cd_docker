@@ -13,6 +13,6 @@ class MyController extends BaseController
 
     public function myMethod()
     {
-
+        //some changes
     }
 }
